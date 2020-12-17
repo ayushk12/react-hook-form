@@ -25,6 +25,7 @@ function App() {
 
       <label>Email</label>
       <input name="email" />
+      <label>Phone No</label>
 
       <label>About you</label>
       <textarea name="about you" />
